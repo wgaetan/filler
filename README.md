@@ -9,4 +9,4 @@ piece can no longer be placed. Little playful project!
 
 My filler:
 Each turn, my program will evaluate all the possible moves with the given piece.
-In order to do so, it calculate a score for each possible moves, depending of the distance from the last piece played by the opponant.
+In order to do so, it calculate a score for each possible moves, depending of the distance from the last piece played by the opponent. Then it will play the move with the bigger score.
